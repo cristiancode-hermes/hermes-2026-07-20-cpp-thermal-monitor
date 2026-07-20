@@ -1,0 +1,10 @@
+build/
+/tmp/thermal-monitor-build/
+*.o
+*.a
+*.so
+compile_commands.json
+.vscode/
+.idea/
+*.swp
+.DS_Store
